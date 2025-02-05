@@ -1,2 +1,2 @@
 # Insect-catch-Game
-The Insect Catch Game is a fun and interactive game where players catch insects before they escape. It features simple controls and increasing difficulty for an exciting challenge.
+The Insect Catch Game is a simple and fun game where player has to catch the insects before new ones spawn in.
